@@ -1,6 +1,4 @@
-**Title:**
-
-A minimal example of using [node-fetch](https://www.npmjs.com/package/node-fetch) for fetching json response
+*A minimal example of using [node-fetch](https://www.npmjs.com/package/node-fetch) for fetching json response*
 
 **Usage:**
 ```
